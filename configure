@@ -1,5 +1,0 @@
-AC_INIT([main], [0.1], [mangobanaani@github.com])
-AM_INIT_AUTOMAKE
-AC_PROG_GCC
-AC_CONFIG_FILES([Makefile])
-AC_OUTPUT
