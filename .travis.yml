@@ -1,0 +1,6 @@
+{
+  "language": "C",
+  "os": "linux",
+  "group": "stable",
+  "dist": "trusty"
+}
